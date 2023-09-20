@@ -1,0 +1,54 @@
+.footer {
+    background-color: #051a18;
+    padding: 100px 12px 0;
+}
+
+.footer__logo {
+    padding-bottom: 24px;
+    margin-bottom: 30px;
+}
+
+.footer__part {
+    margin-bottom: 30px;
+}
+
+.footer__title {
+    color: #6CC8BF;
+    font-size: 24px;
+    font-weight: 400;
+    margin-bottom: 18px;
+}
+
+.footer__item {
+    color: #607d8a;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 9px;
+}
+
+.footer__iconBox {
+    gap: 10px;
+    margin: 20px 0 9px;
+}
+
+.footer__icon {
+    color: #607d8a;
+}
+
+.footer__mobileApp {
+    margin-bottom: 20px;
+}
+
+.footer__two {
+    background-color: #244e4a;
+    padding: 10px 0;
+}
+
+.footer__two__text {
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25.6px;
+    margin: 0;
+}
