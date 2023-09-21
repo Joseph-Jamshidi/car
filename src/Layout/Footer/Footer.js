@@ -2,9 +2,9 @@ import React from 'react';
 import {Col, Container, Image, Row, Stack} from "react-bootstrap";
 import {Link} from "react-router-dom";
 import "./Footer.css";
-import footerLogo from "../../../Images/footerLogo.png";
-import apple from "../../../Images/apple.jpg";
-import googleplay from "../../../Images/googleplay.jpg";
+import footerLogo from "../../Images/footerLogo.png";
+import apple from "../../Images/apple.jpg";
+import googleplay from "../../Images/googleplay.jpg";
 
 const Footer = () => {
     return (

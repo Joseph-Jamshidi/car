@@ -2,8 +2,8 @@ import React from 'react';
 import {Button, Container, Image, Nav, Navbar, NavDropdown, Row, Stack} from 'react-bootstrap';
 import {Link} from "react-router-dom";
 import "./Header.css";
-import logo from "../../../Images/logo.png";
-import brand from "../../../Images/brand.png";
+import logo from "../../Images/logo.png";
+import brand from "../../Images/brand.png";
 
 const Header = () => {
     return (
