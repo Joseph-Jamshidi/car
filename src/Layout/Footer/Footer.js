@@ -9,7 +9,7 @@ import googleplay from "../../Images/googleplay.jpg";
 const Footer = () => {
     return (
         <>
-            <Row className="footer">
+            <Row className="footer g-0">
                 <Container className="container">
                     <Col className="footer__logo">
                         <Link to="">
@@ -57,7 +57,7 @@ const Footer = () => {
                     </Row>
                 </Container>
             </Row>
-            <Row className="footer__two">
+            <Row className="footer__two g-0">
                 <Container className="container">
                     <Col md={4} lg={6}>
                         <p className="footer__two__text">

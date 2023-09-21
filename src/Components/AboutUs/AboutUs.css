@@ -1,3 +1,14 @@
+.page-title-banner {
+    background-color: #12282b;
+    padding: 135px 0 70px;
+}
+
+.page-title {
+    color: #FFFFFF;
+    font-size: 27px;
+    font-weight: 700;
+}
+
 .about__one, .about__two, .about__three, .about__four {
     background-color: #12282b;
 }
@@ -43,4 +54,9 @@
     text-wrap: normal;
 }
 
+@media only screen and (min-width: 768px) {
+    .page-title {
+        font-size: 35px;
+    }
+}
 
