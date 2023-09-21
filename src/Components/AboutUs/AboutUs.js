@@ -96,7 +96,7 @@ const AboutUs = () => {
                     </Row>
                 </Container>
             </section>
-            <section className="about__two">
+            <section className="about__three">
                 <Container className="container">
                     <h2 className="about__title text-center about__two__title">VISION</h2>
                     <Row>
@@ -125,7 +125,7 @@ const AboutUs = () => {
                     </Row>
                 </Container>
             </section>
-            <section className="about__two">
+            <section className="about__four">
                 <Container className="container">
                     <h2 className="about__title text-center about__two__title">OUR PROMISE</h2>
                     <Row>

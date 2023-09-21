@@ -1,0 +1,14 @@
+.service__one {
+    background-color: #12282b;
+    padding: 30px 0;
+}
+
+.service__text {
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25.6px;
+    padding-bottom: 25px;
+    margin: 0;
+    text-size-adjust: 100%;
+}
